@@ -9,9 +9,9 @@ This vagrant project was created to cover the installation process described on 
 
 ## Steps for execution:
 
-    git clone https://github.com/electrocucaracha/vagrant-gradle.git
-    cd vagrant-glade
-    vagrant up
+    $ git clone https://github.com/electrocucaracha/vagrant-gradle.git
+    $ cd vagrant-gradle
+    $ vagrant up
 
 ## Destroy:
 
